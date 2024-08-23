@@ -1,0 +1,3 @@
+/Users/rehangagamage/Desktop/untitled folder/codecrafters-http-server-cpp/CMakeFiles/server.dir
+/Users/rehangagamage/Desktop/untitled folder/codecrafters-http-server-cpp/CMakeFiles/edit_cache.dir
+/Users/rehangagamage/Desktop/untitled folder/codecrafters-http-server-cpp/CMakeFiles/rebuild_cache.dir
